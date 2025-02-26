@@ -32,6 +32,7 @@
 ![image](https://github.com/user-attachments/assets/3015d58b-f3d4-4be8-82cd-6d2ca5b8a412)
 
 **Override Standard Actions**
+
 Currently Standard Actions Overrides only support Aura Components. To use a LWC to override Standard Actions, you must wrap it in an Aura component.
 
 ![image](https://github.com/user-attachments/assets/a9e0b14e-3d39-452b-873f-e23d10249894)
