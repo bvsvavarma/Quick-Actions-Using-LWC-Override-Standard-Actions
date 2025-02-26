@@ -8,7 +8,7 @@
 
    ![image](https://github.com/user-attachments/assets/3f4638a9-dbfc-4624-8762-13e36f20c301)
 
-Screen Quick Action
+**Screen Quick Action**
 
 1. A screen quick action appears in a modal window.
 2. Use the Lightning-quick-action-panel component for a consistent user interface.
