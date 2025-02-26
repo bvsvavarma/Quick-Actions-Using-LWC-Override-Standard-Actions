@@ -19,3 +19,6 @@ Screen Quick Action
 
 ![image](https://github.com/user-attachments/assets/5a1284e2-ba2a-4de0-82a5-c96f9eaddd2d)
 
+**Component Metada for Screen Action**
+
+![image](https://github.com/user-attachments/assets/cc851f6b-9008-4f8b-943d-017385fbc404)
