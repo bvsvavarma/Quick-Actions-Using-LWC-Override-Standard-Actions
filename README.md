@@ -23,7 +23,7 @@
 
 ![image](https://github.com/user-attachments/assets/cc851f6b-9008-4f8b-943d-017385fbc404)
 
-Headless Quick Action
+**Headless Quick Action**
 
 1. A headless quick action executes custom code in a LWC. Unlike a screen action, a headless action doesn't open a modal window.
 2. In your LWC, always expose invoke() as a public method for headless quick actions. The invoke() method executes every time the quick action is triggered.
@@ -31,3 +31,13 @@ Headless Quick Action
 
 ![image](https://github.com/user-attachments/assets/3015d58b-f3d4-4be8-82cd-6d2ca5b8a412)
 
+**Override Standard Actions**
+Currently Standard Actions Overrides only support Aura Components. To use a LWC to override Standard Actions, you must wrap it in an Aura component.
+
+![image](https://github.com/user-attachments/assets/a9e0b14e-3d39-452b-873f-e23d10249894)
+
+Set the name of the interfaces you are implementing
+   lightning:actionOverride
+Makes your components available for action overrides.
+   force:hasRecordId, force:hasObjectName
+Inject attribute values for recordId and sObjectName when possible.
