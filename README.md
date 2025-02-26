@@ -22,3 +22,12 @@
 **Component Metada for Screen Action**
 
 ![image](https://github.com/user-attachments/assets/cc851f6b-9008-4f8b-943d-017385fbc404)
+
+Headless Quick Action
+
+1. A headless quick action executes custom code in a LWC. Unlike a screen action, a headless action doesn't open a modal window.
+2. In your LWC, always expose invoke() as a public method for headless quick actions. The invoke() method executes every time the quick action is triggered.
+3. Create an empty template for your LWC.
+
+![image](https://github.com/user-attachments/assets/3015d58b-f3d4-4be8-82cd-6d2ca5b8a412)
+
